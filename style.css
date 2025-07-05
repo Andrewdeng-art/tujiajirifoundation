@@ -31,6 +31,7 @@ body {
 .header .nav {
   width: 80%;
   height: 70px;
+  overflow: hidden;
 }
 .header .nav ul {
   display: flex;
@@ -68,6 +69,7 @@ body {
   font-size: 5em;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   text-shadow: 10px 10px 7px #444444;
+  overflow: hidden;
 }
 .intro-section {
   transform: translateY(-110%);
