@@ -18,6 +18,7 @@ body {
   height: 70px;
   display: flex;
   background-color: rgba(248, 163, 6, 0.562);
+  overflow: hidden;
 }
 .header .logo {
   height: 70px;
